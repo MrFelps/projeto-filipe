@@ -4,11 +4,8 @@
   "description": "projeto para treinar programação",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "dev": "next dev"
-=======
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> 1d74a25ee97f8b5cd0da6d1feaef02bb6ec0cf4d
+    "start": "node index.js",
+    "dev": "vite"
   },
   "author": "",
   "license": "MIT",
@@ -16,5 +13,8 @@
     "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
   }
 }
