@@ -4,8 +4,9 @@
   "description": "projeto para treinar programação",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "vite"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "author": "",
   "license": "MIT",
@@ -15,6 +16,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "vite": "^7.0.0"
+    "vite": "^7.0.6"
   }
 }
+
