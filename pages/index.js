@@ -1,6 +1,5 @@
 function Home() {
-    return <h1>Te amo, meu amor!!!
-        Amor da minha vida. Vontade de te morder.
+    return <h1>pagina teste
     </h1>
 }
 
